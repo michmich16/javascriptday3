@@ -3,6 +3,6 @@
 HelloWorld();
 
 // her skal du skrive din funktion
-function HelloWorld(){
-console.log('Hello World')
+function HelloWorld() {
+    console.log('Hello World')
 }
